@@ -1,0 +1,202 @@
+body{
+    background-image: url("banner-bg.jpg");
+    margin: 35px;
+    font-family: 'Montserrat',sans-serif
+}
+.banner{
+    display: flex;
+    float: right;
+}
+.banner a{
+    float: right;
+    margin-top: -48px;
+    font-size: 36px;
+    color: #c72c36;
+    font-weight: 700;
+    text-decoration: none;
+}
+.banner i{
+        width: 55px;
+        height: 55px;
+        background-color: #163362;
+        color: #fff;
+        font-size: 28px;
+        line-height: 54px;
+        border-radius: 50%;
+        margin-right: 5px;
+        text-align: center;
+        margin-top: -63px;
+}
+.banner-main{
+    border-bottom: 4px solid #c5242e;
+}
+.section-title h2 {
+    font-size: 40px;
+    font-weight: 800;
+    color: #163362;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    line-height: 42px;
+}
+.section-title h2 span{
+    color: red;
+}
+.how-work{
+    text-align: center;
+}
+.work-box .btn-menu{
+    background-color: #163362;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 11px 40px;
+    border-radius: 0px;
+    border-color: white;
+    font-family: 'Montserrat',sans-serif;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+.phoneno a {
+    font-size: 22px;
+    color: #163362;
+    font-weight: 700;
+    text-decoration: none;
+}
+.phoneno a i{
+    color: red;
+}
+.phoneno {
+    margin-top: 12px;
+}
+
+.btn-menu:hover {
+    background:red;
+    border-color: red;
+    border-radius: 30px;
+}
+.phoneno a:hover{
+    color: red;
+}
+.section-title h2{
+    position: relative;
+    display: inline-block;
+    line-height: 50px;
+    font-size: 36px;
+    margin-bottom: 10px;
+    color: #163362;
+    text-transform: uppercase;
+    width: 800;
+}
+.get-info{
+  
+    background-color: white;
+    padding: 40px 0px;
+    text-align: center;
+    margin-top: 20px;
+}
+.get-info  p {
+    font-size: 18px;
+    color: #131313;
+    line-height: 28px;
+    font-weight: 400;
+}
+.phone a {
+    font-size: 60px;
+    font-weight: 800;
+    color: #163362;
+    text-decoration: none;
+}
+.phone i {
+    border: 5px solid #e0e0e0;
+    width: 75px;
+    height: 75px;
+    background-color: #ca3841;
+    color: #fff;
+    font-size: 34px;
+    line-height: 67px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+.get-info img {
+    position: absolute;
+    right: 500px;
+    bottom: 140px;
+}
+.planning-title h2 {
+    font-size: 40px;
+    font-weight: 800;
+    color: #163362;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    line-height: 42px;
+}
+.planning-title h2 span{
+    color: red;
+}
+.planning-inn p {
+    font-size: 16px;
+    color: #232323;
+    padding-bottom: 20px;
+}
+
+.planning-btn .blue-btn {
+    background-color: #163362;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 800;
+    padding: 16px 53px;
+    border-radius: 0px;
+    border-color: #163362;
+    font-family: 'Montserrat',sans-serif;
+    text-transform: uppercase;
+}
+.planning{
+    text-align: center;
+}
+.blue-btn:hover{
+    background-color: red;
+    color: #fff;
+    border-radius: 30px;
+    border-color: red;
+}
+.sub-footer h3 {
+    font-size: 30px;
+    color: #fff;
+}
+.sub-footer h3 i {
+    border: 5px solid #d87178;
+    width: 60px;
+    height: 60px;
+    background-color: #163362;
+    color: #fff;
+    font-size: 24px;
+    line-height: 50px;
+    border-radius: 50%;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.sub-footer {
+    background-color: #cc454e;
+    padding: 4px 0px;
+    text-align: center;
+    margin-top: 10px;
+}
+.sub-footer h3 a {
+    font-weight: 800;
+    color: #fff;
+    text-decoration: none;
+}
+.sub-footer a:hover{
+    color: #163362;
+}
+.footer-item p {
+    font-size: 12px;
+    padding: 20px 0px;
+    color: #f3f3f3;
+    line-height: 1.8;
+    font-weight: 300;
+}
+.section-footer {
+    background-color: #163362;
+    text-align: center;
+}
